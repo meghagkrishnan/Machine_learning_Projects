@@ -7,4 +7,8 @@ This includes the projects done to learn Machine Learning
 4. Handwritten Digit Prediction using MNIST dataset - Both ANN and CNN models are developed
 5. Object Classification using CIFAR10 dataset - CNN model developed
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
-
+6. Used transfer learning to predict Tomato Leaf Disease
+7. Brain tumor detection using VGG-16
+8. Hen detection with Yolov5
+9. Malayalam Actors Face Recognition using Wavelet transform of the image
+10. Skin cancer detection using CNN
